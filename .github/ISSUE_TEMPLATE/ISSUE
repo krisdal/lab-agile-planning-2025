@@ -7,9 +7,9 @@ assignees: ''
 
 ---
 
-**As a** [role]  
- **I need** [function]  
- **So that** [benefit]  
+As a user 
+I need a remark function  
+So that I can mark what i don't want in my dish.
    
  ### Details and Assumptions
  * [document what you know]

@@ -1,7 +1,7 @@
 ---
-name: User Story
-about: This template is for creating user stories.
-title: ''
+name: Remark Function
+about: Mark what I don't want
+title: '[Remark}: '
 labels: ''
 assignees: ''
 
@@ -12,12 +12,13 @@ I need a remark function
 So that I can mark what i don't want in my dish.
    
  ### Details and Assumptions
- * [document what you know]
+ when I order my food, I want to custom it to meet my needs. 
+Also, some people have allergies, so it would be great if they could customize their orders.
    
  ### Acceptance Criteria  
    
  ```gherkin
- Given [some context]
- When [certain action is taken]
- Then [the outcome of action is observed]
+ Given the remark function
+ When the user chooses a menu
+ Then show the remark in the cart
  ```
